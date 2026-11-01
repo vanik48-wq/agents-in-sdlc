@@ -30,7 +30,7 @@ El taller dura aproximadamente entre 60 y 90 minutos. El proyecto utiliza un ún
 | [9. Automatizar la clasificación de incidencias][lesson-9] | Automatización | Programa y ejecuta una automatización semanal de clasificación de incidencias |
 | [10. Continuar una sesión de forma remota][lesson-10] | Acceso remoto (opcional) | Sigue una sesión local en curso desde la web o el móvil con `/remote` |
 | [11. Explorar un Canvas][lesson-11] | Canvas | Empieza a trabajar desde un Canvas de Repository Issues Kanban |
-| [12. Publicar el sitio con GitHub Pages][lesson-12] | Publicación | Revisa y combina un flujo de trabajo de Pages y comprueba el sitio publicado |
+| [12. Implementar el sitio con GitHub Pages][lesson-12] | Implementación | Revisa y combina un flujo de trabajo de Pages y comprueba el sitio publicado |
 | [13. Repaso y pasos siguientes][lesson-13] | Repaso | Repasa el flujo de trabajo y sigue aprendiendo |
 
 ## Primeros pasos
